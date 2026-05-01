@@ -413,3 +413,14 @@ Status values: `PENDING` → `PROCESSING` → `DONE` or `FAILED`
 - Real-time upload progress tracking
 - Input validation with clear error messages
 - Cities and countries stored as master data in the database
+
+## Screenshots
+
+## Feedback Submission Page
+![Feedback Form](screenshots/submission.png)
+
+## Login Page
+![Login Form](screenshots/login.png)
+
+## Admin Dashboard
+![Admin Dashboard](screenshots/admindashboard.png)

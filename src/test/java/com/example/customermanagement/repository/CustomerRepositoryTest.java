@@ -157,7 +157,8 @@ class CustomerRepositoryTest {
             // ASSERT
             assertThat(result).isPresent();
             assertThat(result.get().getAddresses()).hasSize(1);
-            Address loadedAddr = result.get().getAddresses().get(0);
+            Address loadedAddr = result.get().getAddresses().iterator().next();
+
             assertThat(loadedAddr.getAddressLine1()).isEqualTo("45 Galle Road");
             assertThat(loadedAddr.getCity().getName()).isEqualTo("Colombo");
             assertThat(loadedAddr.getCountry().getName()).isEqualTo("Sri Lanka");
