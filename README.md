@@ -88,9 +88,8 @@ customer-management-system/
 │   │   │   └── BulkUpload.jsx
 │   │   └── App.jsx
 │   └── package.json
-├── db/
-│   ├── ddl_customer_management.sql   # Table definitions
-│   └── dml_seed_data.sql             # Sample data
+├
+│  
 └── README.md
 ```
 
