@@ -416,11 +416,9 @@ Status values: `PENDING` → `PROCESSING` → `DONE` or `FAILED`
 
 ## Screenshots
 
-## Feedback Submission Page
-![Feedback Form](screenshots/submission.png)
+(screenshots/Screenshot 2026-05-01 060414.png)
 
-## Login Page
-![Login Form](screenshots/login.png)
 
-## Admin Dashboard
-![Admin Dashboard](screenshots/admindashboard.png)
+(screenshots/Screenshot 2026-05-01 060315.png)
+
+(screenshots/Screenshot 2026-05-01 060330.png)
