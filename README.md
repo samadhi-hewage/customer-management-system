@@ -414,11 +414,13 @@ Status values: `PENDING` → `PROCESSING` → `DONE` or `FAILED`
 - Input validation with clear error messages
 - Cities and countries stored as master data in the database
 
+
+
 ## Screenshots
 
-(screenshots/Screenshot 2026-05-01 060414.png)
+![Screenshot 1](screenshots/Screenshot%202026-05-01%20060414.png)
 
+![Screenshot 2](screenshots/Screenshot%202026-05-01%20060315.png)
 
-(screenshots/Screenshot 2026-05-01 060315.png)
+![Screenshot 3](screenshots/Screenshot%202026-05-01%20060330.png)
 
-(screenshots/Screenshot 2026-05-01 060330.png)
